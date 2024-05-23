@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\rdann\\onedrive\\desktop\\repos\\employeeportal\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\rdann\\onedrive\\desktop\\repos\\employeeportal\\employeeportal\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\rdann\\onedrive\\desktop\\repos\\employeeportal\\employeeportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Program.cs",
+              "ToolTip": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeToolTip": "EmployeePortal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:49:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T22:48:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeePortal\\Views\\Home\\Index.cshtml",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeePortal\\EmployeeRepository.cs",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "EmployeePortal\\EmployeeRepository.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAADYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:25:47.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T20:25:47.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeePortal\\Controllers\\EmployeeController.cs",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "EmployeePortal\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAAADYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:41:59.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T20:41:59.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Models\\Department.cs",
               "RelativeDocumentMoniker": "EmployeePortal\\Models\\Department.cs",
@@ -77,8 +109,7 @@
               "RelativeToolTip": "EmployeePortal\\Models\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T01:46:59.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T01:46:59.681Z"
             }
           ]
         }

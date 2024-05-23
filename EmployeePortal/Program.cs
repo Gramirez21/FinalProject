@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using EmployeePortal.Data;
-using EmployeePortal.Areas.Identity.Data;
 using EmployeePortal;
 using Testing;
 using MySql.Data.MySqlClient;
