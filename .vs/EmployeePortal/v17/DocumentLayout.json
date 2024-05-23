@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\rdann\\onedrive\\desktop\\repos\\employeeportal\\employeeportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\rdann\\onedrive\\desktop\\repos\\employeeportal\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\rdann\\onedrive\\desktop\\repos\\employeeportal\\employeeportal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\rdann\\onedrive\\desktop\\repos\\employeeportal\\employeeportal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A629928-8570-49F2-9BC9-48E15F96A97D}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T21:57:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeePortal\\EmployeeRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:25:47.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:41:59.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\rdann\\OneDrive\\Desktop\\repos\\EmployeePortal\\EmployeePortal\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:46:59.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

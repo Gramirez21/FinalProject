@@ -1,0 +1,137 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set background color */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Style the header */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the container */
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Style the table */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .table th, .table td {
+        padding: 12px 15px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    /* Style alternate rows */
+    .table tbody tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    /* Style table headers */
+    .table th {
+        background-color: darkblue;
+        color: #fff;
+    }
+
+/* Style links */
+a {
+    color: red;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Style the header */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+    .header h1 {
+        margin: 0;
+        font-size: 36px;
+    }
+
+/* Style the navigation menu */
+.nav-menu {
+    background-color: #444;
+    padding: 10px 0;
+}
+
+    .nav-menu ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .nav-menu li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+
+        .nav-menu li a {
+            color: red;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+
+            .nav-menu li a:hover {
+                background-color: #555;
+            }
+
+/* Style the hero section */
+
+body{
+    background-color:black;
+    color:red;
+}
+
+
+/* Style the featured content section */
+.featured-content {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+    .featured-content h3 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+/* Style the footer */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
